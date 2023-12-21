@@ -1,7 +1,9 @@
 ### Hi there 👋
 
+Rastro de commits das minhas contribuições
+![snake gif](https://github.com/flowramps/flowramps/blob/output/github-contribution-grid-snake-dark.svg)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flowramps&show_icons=true&theme=github_dark)
-  ##
  
 <div> 
   <a href="https://www.youtube.com/@EstudandoDevops" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
